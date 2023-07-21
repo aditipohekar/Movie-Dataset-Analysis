@@ -6,8 +6,7 @@ Movie Data Analysis Report
 - [ ] 2 - Combining Data (using VLOOKUP, INDEXMATCH, XLOOKUP)
 - [ ] 3 - Application of Business Maths (Mean, Median, Mode, Variance, Standard Deviation, Correlation) in analysis.
 - [ ] 4 - Power Query for extraction, and transformation of data from multiple sources. 
-- [ ] 5 - Power Pivot for establishing relationships (Data Modeling) with various facts and dimension tables.
-- [ ]     DAX to create custom values and metrics to be used in reports.
+- [ ] 5 - Power Pivot for establishing relationships (Data Modeling) with various facts and dimension tables.DAX to create custom values and metrics to be used in reports.
 
 The analysis gives insights about  - 
 - [ ] 1 - Top Movies, Budget and Revenue wise
